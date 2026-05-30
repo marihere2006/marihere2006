@@ -41,12 +41,6 @@ public class SharveshMariRaja {
         "PostgreSQL", "MongoDB", "Docker"
     };
 
-    String[] learning   = {
-        "System Design",
-        "Advanced DSA Patterns",
-        "Cloud Architecture (AWS/GCP)",
-        "Open Source Contributions"
-    };
 
     String funFact      = "I've solved 1000+ DSA problems & still counting!";
 
